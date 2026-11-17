@@ -1,0 +1,15 @@
+chain_or_route,min_swap_usdc,max_swap_usdc,base_fee_no_code,in_app_fee_with_10pct_code,net_fee_with_join2026_15pct_cashback,gas_and_token_rent,official_help_source
+Solana (lowest-fee route),0,4.99,0.10 USDC flat,0.10 USDC flat,0.10 USDC flat,Covered by Fomo (gas + priority + SPL rent),https://help.fomo.family/en/articles/14436214-trading-fees-on-fomo
+Solana (lowest-fee route),5.00,47.49,2.00%,2.00%,2.00%,Covered by Fomo (gas + priority + SPL rent),https://help.fomo.family/en/articles/14436214-trading-fees-on-fomo
+Solana (lowest-fee route),47.50,189.99,0.95 USDC flat,0.95 USDC flat,0.95 USDC flat,Covered by Fomo (gas + priority + SPL rent),https://help.fomo.family/en/articles/14436214-trading-fees-on-fomo
+Solana (lowest-fee route),190.00,,0.50%,0.45%,0.3825%,Covered by Fomo (gas + priority + SPL rent),https://help.fomo.family/en/articles/14436214-trading-fees-on-fomo
+Solana (other liquidity routes),0,,0.50% ($0.95 floor),0.45% ($0.95 floor),0.3825% above floor,Covered by Fomo (route varies per quote),https://help.fomo.family/en/articles/14436214-trading-fees-on-fomo
+Base,0,,0.50%,0.45%,0.3825%,Network gas shown on quote,https://help.fomo.family/en/articles/14436214-trading-fees-on-fomo
+BNB Chain,0,,0.50%,0.45%,0.3825%,Network gas shown on quote,https://help.fomo.family/en/articles/14436214-trading-fees-on-fomo
+Ethereum,0,,0.50%,0.45%,0.3825%,Network gas shown on quote,https://help.fomo.family/en/articles/14436214-trading-fees-on-fomo
+Monad,0,,0.50%,0.45%,0.3825%,Network gas shown on quote,https://help.fomo.family/en/articles/14436214-trading-fees-on-fomo
+Robinhood Chain,0,,0.50%,0.45%,0.3825%,Network gas shown on quote (USDG cash asset),https://help.fomo.family/en/articles/14436214-trading-fees-on-fomo
+Arc,0,,0.50%,0.45%,0.3825%,Network gas shown on quote,https://help.fomo.family/en/articles/14436214-trading-fees-on-fomo
+Elysium,0,,0.50%,0.45%,0.3825%,Network gas shown on quote,https://help.fomo.family/en/articles/14436214-trading-fees-on-fomo
+Select Lowered-Fee Major Tokens,0,,0.05% (min on small swaps),0.05%,0.05%,Shown on token page,https://help.fomo.family/en/articles/14436214-trading-fees-on-fomo
+Perpetual Futures (Hyperliquid non-US),15.00,,0.05% open + 0.05% close,0.05%,0.0425% on Fomo fee part,Hyperliquid execution & hourly funding separate,https://help.fomo.family/en/articles/15453645-perps-trading-fees

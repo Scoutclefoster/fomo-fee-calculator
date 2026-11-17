@@ -1,0 +1,5 @@
+code_tier,example_code,invite_link,in_app_discount_pct,in_app_fee_pct,referrer_share_rebated_pct,usdc_cashback_pct_of_fee,effective_net_fee_pct,net_cost_10k_usd,net_cost_50k_usd,net_cost_100k_usd,weekly_threshold_usdc,monthly_floor_usdc,fomo_send_rule_compliant
+15% USDC Cashback + 10% Protocol Cut,JOIN2026,https://fomo.family/r/JOIN2026,10.0,0.45,60.0,15.0,0.3825,38.25,191.25,382.50,25.00,1.00,Yes (1.00 USDC floor + public @username Send per Help Art. 14436791)
+12.5% USDC Cashback + 10% Protocol Cut,DEAL,https://fomo.family/r/deal,10.0,0.45,50.0,12.5,0.39375,39.38,196.88,393.75,50.00,0.01,No (claims sub-$1 cent transfers without @username)
+Standard 10% Protocol Cut Only,SAVE2026 / JOIN100 / GET10OFF / Iocke / datawallet10,https://fomo.family,10.0,0.45,0.0,0.0,0.4500,45.00,225.00,450.00,,,N/A (zero cashback)
+Unreferred Account,None,https://fomo.family,0.0,0.50,0.0,0.0,0.5000,50.00,250.00,500.00,,,N/A (base 0.50% fee)

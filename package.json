@@ -1,0 +1,36 @@
+{
+  "name": "fomo-fee-calculator",
+  "version": "1.0.0",
+  "description": "Zero-dependency Fomo App (fomo.family) trading fee & referral cashback calculator across Solana small-trade minimum bands and all 8 supported chains (JOIN2026 0.3825% net vs standard 0.45% & 12.5% codes).",
+  "type": "module",
+  "main": "./src/calculator.mjs",
+  "exports": {
+    ".": "./src/calculator.mjs"
+  },
+  "bin": {
+    "fomo-fees": "./bin/fomo-fees.mjs"
+  },
+  "scripts": {
+    "test": "node --test test/calculator.test.mjs",
+    "benchmark": "node bin/fomo-fees.mjs --size 500 --trades 200 --chain solana"
+  },
+  "keywords": [
+    "fomo",
+    "fomo-app",
+    "fomo-referral-code",
+    "solana",
+    "trading-fees",
+    "fee-calculator",
+    "crypto",
+    "usdc-cashback"
+  ],
+  "homepage": "https://fomoappreferral.com/fee-calculator/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Scoutclefoster/fomo-fee-calculator.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
