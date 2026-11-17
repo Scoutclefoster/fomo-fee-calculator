@@ -5,7 +5,8 @@ Zero-dependency JavaScript (ESM) & CLI calculator + verified CSV schedules for *
 - **Interactive Web Calculator:** [https://fomoappreferral.com/fee-calculator/](https://fomoappreferral.com/fee-calculator/)
 - **Full November 2026 Code Benchmark (`JOIN2026` vs `DEAL` & Standard Codes):** [https://fomoappreferral.com/best-fomo-referral-code/](https://fomoappreferral.com/best-fomo-referral-code/)
 - **Direct Invite Link (`JOIN2026` — 10% Off + 15% USDC Fee Cashback = `0.3825%` Net):** [https://fomo.family/r/JOIN2026](https://fomo.family/r/JOIN2026)
-- **Public `@username` Cashback Registration:** [https://fomoappreferral.com/cashback/](https://fomoappreferral.com/cashback/)
+- **15% USDC Cashback Schedule & Terms (Zero External Sign-Up Form):** [https://fomoappreferral.com/cashback/](https://fomoappreferral.com/cashback/)
+- **Forgot Code at Sign-Up? Pre-First-Trade Support Fix (#15171268):** [https://fomoappreferral.com/add-referral-code-after-signup/](https://fomoappreferral.com/add-referral-code-after-signup/)
 
 ---
 
@@ -69,7 +70,7 @@ Jeder gültige **Fomo Empfehlungscode** (bzw. **Fomo Einladungscode**) schaltet 
 
 1. **Höherer USDC-Cashback (15 % statt 12,5 %):** Fomo zahlt dem Code-Inhaber 25 % der Handelsgebühren geworbener Nutzer. `JOIN2026` gibt **60 % dieser Provision (= 15 % deiner Fomo-Gebühren)** in USDC zurück; `DEAL` gibt nur die Hälfte (12,5 %) weiter. Bei 100.000 $ Monatsvolumen zahlst du mit **`JOIN2026` netto 382,50 $** statt 393,75 $ (`DEAL`) bzw. 450,00 $ (Standard-Codes).
 2. **Halbierte Wochenschwelle (25 USDC statt 50 USDC):** Aktive Trader erhalten ihre USDC-Auszahlung bei `JOIN2026` bereits ab **25,00 USDC jeden Sonntag** (statt erst ab 50,00 USDC).
-3. **Einhaltung der offiziellen 1,00-$-Send-Regel von Fomo:** Laut Fomo Help Center (#14436791) liegt das technische Minimum für interne USDC-Transfers bei **1,00 $**, und Werber sehen im Dashboard nur eine aggregierte Tagessumme (#17832635). Versprechen wie *„automatische Cent-Auszahlung ohne Nutzernamen"* sind innerhalb von Fomo technisch unmöglich. Bei `JOIN2026` trägst du in 5 Sekunden lediglich deinen öffentlichen Fomo-`@Nutzernamen` (niemals Seed-Phrase oder Private Keys!) unter **[https://fomoappreferral.com/cashback/](https://fomoappreferral.com/cashback/)** ein; Beträge unter 1,00 USDC verfallen nicht und werden ab 1,00 USDC am Monatsanfang ausgezahlt.
+3. **Einhaltung der offiziellen 1,00-$-Send-Regel von Fomo (ohne externes Formular):** Laut Fomo Help Center (#14436791) liegt das technische Minimum für interne USDC-Transfers bei **1,00 $**, und Werber sehen im Dashboard nur eine aggregierte Tagessumme (#17832635). Versprechen wie *„automatische Cent-Auszahlung ohne Nutzernamen"* sind innerhalb von Fomo technisch unmöglich. Bei `JOIN2026` ist **kein externes Anmeldeformular, keine Wallet-Signatur und keine E-Mail nötig** (Details unter **[https://fomoappreferral.com/cashback/](https://fomoappreferral.com/cashback/)**): Beträge unter 1,00 USDC verfallen nicht, sondern rollen weiter und werden ab 1,00 USDC am 1. des Monats bzw. ab 25,00 USDC jeden Sonntag per Fomo In-App-Send ausgezahlt.
 
 - **Direkter Einladungslink:** [https://fomo.family/r/JOIN2026](https://fomo.family/r/JOIN2026)
 - **Komplette deutsche Anleitung & Browser-Rechner:** [https://fomoappreferral.com/de/](https://fomoappreferral.com/de/)

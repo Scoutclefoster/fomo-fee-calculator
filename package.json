@@ -8,7 +8,7 @@
     ".": "./src/calculator.mjs"
   },
   "bin": {
-    "fomo-fees": "./bin/fomo-fees.mjs"
+    "fomo-fees": "bin/fomo-fees.mjs"
   },
   "scripts": {
     "test": "node --test test/calculator.test.mjs",
@@ -27,7 +27,7 @@
   "homepage": "https://fomoappreferral.com/fee-calculator/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Scoutclefoster/fomo-fee-calculator.git"
+    "url": "git+https://github.com/Scoutclefoster/fomo-fee-calculator.git"
   },
   "license": "MIT",
   "engines": {
